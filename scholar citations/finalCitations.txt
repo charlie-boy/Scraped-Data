@@ -1,0 +1,2332 @@
+Title:Technology in the Foreign Language Classroom;Citation:0
+
+Title:Personal Information Privacy and Internet Technology;Citation:2
+
+Title:Mobile Telecommunications and M-Commerce Applications;Citation:0
+
+Title:Agent-Based Intelligence Infrastructure;Citation:0
+
+Title:ERP Adoption by Indian Organizations;Citation:0
+
+Title:Cross-Culture Communication;Citation:0
+
+Title:Bridging the Growing Digital Divide;Citation:0
+
+Title:Actor-Network Theory in Information Systems Research;Citation:241
+
+Title:Modelling Technological Change in Small Business;Citation:0
+
+Title:Actor-Network Theory and Adoption of E-Commerce in SMEs;Citation:2
+
+Title:Ecological Models and Information Systems Curriculum;Citation:0
+
+Title:Knowledge Exchange in Electronic Networks of Practice;Citation:0
+
+Title:Designing Hypertext and the Web;Citation:2
+
+Title:Business Strategy, Structure and IT Alignment;Citation:0
+
+Title:Building Local Capacity via Scaleable Web-Based Services;Citation:0
+
+Title:Querying Multidimensional Data;Citation:0
+
+Title:Improving Virtual Teams Through Creativity;Citation:1
+
+Title:Leapfrogging an IT Sector;Citation:2
+
+Title:E-Business Systems Security for Intelligent Enterprise;Citation:0
+
+Title:Implementing the Shared Event Paradigm;Citation:0
+
+Title:Audience-Driven Web Site Design;Citation:0
+
+Title:Web Tools for Molecular Biological Data Analysis;Citation:0
+
+Title:Monitoring Strategies for Internet Technologies;Citation:0
+
+Title:Digital Literacy and the Position of the End-User;Citation:3
+
+Title:Intranet Use and Emergence of Networks of Practice;Citation:2
+
+Title:Metrics for the Evaluation of Test Delivery Systems;Citation:0
+
+Title:Face Expression and Motion Analysis over Monocular Images;Citation:0
+
+Title:Artificial Neural Networks in Financial Trading;Citation:6
+
+Title:Surveying Mobile Commerce Environments;Citation:0
+
+Title:Content-Based Image Retrieval Query Paradigms;Citation:1
+
+Title:Analyzing the Quality of Virtual Teams;Citation:2
+
+Title:Bayesian Analysis of Geographical Variation in Disease Risk;Citation:0
+
+Title:Cluster Analysis Using Rough Clustering and k-Means Clustering;Citation:2
+
+Title:Networks and Electronic Commerce Adoption in Small Businesses;Citation:1
+
+Title:Information and Communication Technology Tools for Competitive Intelligence;Citation:2
+
+Title:Supporting the Evaluation of Intelligent Sources;Citation:0
+
+Title:Data Dissemination in Mobile Databases;Citation:2
+
+Title:Trust in B2C E-Commerce Interface;Citation:1
+
+Title:GIS-Based Accessibility Measures and Application;Citation:0
+
+Title:IT Industry Success in Finland and New Zealand;Citation:0
+
+Title:Enhanced Knowledge Warehouse;Citation:1
+
+Title:Learning 3D Face Animation Model;Citation:0
+
+Title:E-Governement Interoperability;Citation:2
+
+Title:Data Collection Methodologies for Web-Based Experiments;Citation:0
+
+Title:"Anytime, Anywhere" in the Context of Mobile Work;Citation:10
+
+Title:Knowledge Discovery Solutions for Intelligent Enterprises;Citation:1
+
+Title:Evaluating IS Quality as a Measure of IS Effectiveness;Citation:0
+
+Title:E-Mail and Communication;Citation:5
+
+Title:Trust in Virtual Enterprises;Citation:0
+
+Title:Designing High Performance Virtual Teams;Citation:0
+
+Title:Improving Public Sector Service Delivery through Knowledge Sharing;Citation:0
+
+Title:Traversal Pattern Mining in Web Usage Data;Citation:2
+
+Title:Applying a Metadata Framework to Improve Data Quality;Citation:0
+
+Title:Java 2 Micro Edition for Wireless Enterprose;Citation:0
+
+Title:Distributed Construction through Participatory Design;Citation:4
+
+Title:Tactic Knowledge and Discourse Analysis;Citation:1
+
+Title:Advanced Techniques for Object-Based Image Retrieval;Citation:1
+
+Title:Neural Networks for Retail Sales Forecasting;Citation:0
+
+Title:New Advancements in Image Segmentation for CBIR;Citation:5
+
+Title:The Impact of IT on Business Partnerships and Organizational Structures;Citation:0
+
+Title:Fault Tolerance for Distributed and Networked Systems;Citation:4
+
+Title:Isochronus Distributed Multimedia Synchronization;Citation:0
+
+Title:Integrated-Services Architecture for Building Internet Multimedia Applications;Citation:0
+
+Title:Discovering Association Rules in Temporal Databases;Citation:3
+
+Title:Kernelized Database Systems Security;Citation:0
+
+Title:Collective Knowledge Composition in a P2P Network;Citation:15
+
+Title:E-Government Databases;Citation:0
+
+Title:Converting a Legacy Database to Object-Oriented Database;Citation:1
+
+Title:E-Mail Data Stores;Citation:0
+
+Title:Proper Placement of Derived Classes in the Class Hierarchy;Citation:0
+
+Title:Replication Mechanisms Over a Set of Distributed UDDI Registries;Citation:1
+
+Title:Logic Databases and Inconsistency Handling;Citation:0
+
+Title:High Quality Conceptual Schemes;Citation:0
+
+Title:A Rhetorical Perspective on Localization and International Outsourcing;Citation:2
+
+Title:Hierarchical Architecture of Expert Systems for Database Management;Citation:0
+
+Title:Ontological Assumptions in Information Modeling;Citation:0
+
+Title:Integrative Document and Content Management Systems Architecture;Citation:1
+
+Title:Dataveillance and Panoptic Marketspaces;Citation:0
+
+Title:Advanced Query Optimization;Citation:0
+
+Title:Main Memory Databases;Citation:0
+
+Title:Business Rules in Databases;Citation:0
+
+Title:Relational, Object-Oriented and Object-Relational Data Models;Citation:0
+
+Title:Extended Entity Relationship Modeling;Citation:0
+
+Title:Symbolic Objects and Symbolic Data Analysis;Citation:1
+
+Title:Integration of Data Semantics in Heterogeneous Database Federations;Citation:0
+
+Title:Query Operators in Temporal XML Databases;Citation:1
+
+Title:Ensuring Serializability for Mobile-Client Data Caching;Citation:0
+
+Title:Databases for Mobile Applications;Citation:1
+
+Title:Rough Sets;Citation:13297
+
+Title:Data Model Versioning and Database Evolution;Citation:2
+
+Title:Vertical Database Design for Scalable Data Mining;Citation:0
+
+Title:Database Support for Workflow Management Systems;Citation:0
+
+Title:Real-Time Databases;Citation:10
+
+Title:Object Modeling of RDBMS Based Applications;Citation:0
+
+Title:Business-to-Business Integration;Citation:0
+
+Title:Moving Objects Databases;Citation:5
+
+Title:Open Source Software and Information Systems on the Web;Citation:0
+
+Title:Set Valued Attributes;Citation:2
+
+Title:Normalizing Multimedia Databases;Citation:1
+
+Title:Consistency in Spatial Databases;Citation:0
+
+Title:Storing XML Documents in Databases;Citation:0
+
+Title:Path-Oriented Queries and Tree Inclusion Problems;Citation:0
+
+Title:Ubiquitous Computing and Databases;Citation:0
+
+Title:Signature Files and Signature File Construction;Citation:1
+
+Title:Semantic Information Management;Citation:3
+
+Title:Sensors, Uncertainty Models, and Probabilistic Queries;Citation:8
+
+Title:The Information Quality of Databases;Citation:1
+
+Title:Text Categorization;Citation:269
+
+Title:Active Database Management Systems;Citation:2
+
+Title:Querical Data Networks;Citation:0
+
+Title:Query Processing in Spatial Databases;Citation:1
+
+Title:Extraction-Transformation-Loading Processes;Citation:4
+
+Title:Free Software and Open Source Databases;Citation:0
+
+Title:Open Source Database Management Systems;Citation:1
+
+Title:Set Comparison in Relational Query Languages;Citation:0
+
+Title:Biological Data Mining;Citation:18
+
+Title:Deriving Spatial Integrity Constraints from Geographic Application Schemas;Citation:4
+
+Title:Query Processing for RDF Data;Citation:0
+
+Title:Data Warehousing, Multi-Dimensional Data Models, and OLAP;Citation:1
+
+Title:Modeling and Querying Temporal Data;Citation:0
+
+Title:Temporal Databases;Citation:2
+
+Title:Mathematics of Generic Specifications for Model Management, I;Citation:36
+
+Title:Spatio-Temporal Indexing Techniques;Citation:3
+
+Title:Mathematics of Generic Specifications for Model Management, II;Citation:36
+
+Title:Active Federated Database Systems;Citation:0
+
+Title:Generic Model Management;Citation:14
+
+Title:Digital Media Warehouses;Citation:0
+
+Title:Semantically Modeled Enterprise Databases;Citation:0
+
+Title:Knowledge Discovery and Geographical Databases;Citation:0
+
+Title:Multiparticipant Decision Making and Balanced Scorecard Collaborative;Citation:1
+
+Title:Semantic Enrichment of Geographical Databases;Citation:4
+
+Title:Syntactical and Semantical Correctness of Pictorial Queries for GIS;Citation:1
+
+Title:Ontologies and Their Practical Implementation;Citation:0
+
+Title:Using Semantic Web Tools for Ontologies Construction;Citation:0
+
+Title:Repairing Inconsistent XML Data with Functional Dependencies;Citation:8
+
+Title:Geometric Quality in Geographic Information;Citation:1
+
+Title:Managing Inconsistent Databases Using Active Integrity Constraints;Citation:0
+
+Title:Object-Relational Modeling in the UML;Citation:8
+
+Title:Replication Methods and Their Properties;Citation:13
+
+Title:Service Mechanism Quality for Enhanced Mobile Multimedia Database Query Processing;Citation:0
+
+Title:Transaction Concurrency Methods;Citation:1
+
+Title:Document Versioning in Digital Libraries;Citation:1
+
+Title:Multilevel Databases;Citation:3
+
+Title:Component-Based Generalized Database Index Model;Citation:0
+
+Title:An XML Multi-Tier Pattern Dissemination System;Citation:6
+
+Title:Bioinformatics Data Management and Data Mining;Citation:1
+
+Title:Natural Language Front-End for a Database;Citation:0
+
+Title:Preferred Repairs for Inconsistent Databases;Citation:18
+
+Title:Transformation-Based Database Engineering;Citation:28
+
+Title:Checking Integrity Constraints in a Distributed Database;Citation:1
+
+Title:Optimization of Continual Queries;Citation:0
+
+Title:Security Controls for Database Technology and Applications;Citation:0
+
+Title:Similarity Search in Time Series Databases;Citation:2
+
+Title:Database Query Personalization;Citation:3
+
+Title:Data Quality Assessment;Citation:9
+
+Title:A Development Environment for Customer-Oriented Web Business;Citation:0
+
+Title:Transactional Support for Mobile Databases;Citation:0
+
+Title:Engineering Information Modeling in Databases;Citation:0
+
+Title:Semistructured Data and its Conceptual Models;Citation:0
+
+Title:Management of Large Moving Objects Datasets: Indexing, Benchmarking and Uncertainty in Movement Representation;Citation:5
+
+Title:Approximate Computation of Distance-Based Queries;Citation:1
+
+Title:Spatiotemporal Prediction using Data Mining Tools;Citation:5
+
+Title:Object-Relational Spatial Indexing;Citation:6
+
+Title:Integrating Web Data and Geographic Knowledge into Spatial Databases;Citation:10
+
+Title:Quadtree-Based Image Representation and Retrieval;Citation:33
+
+Title:Similarity Learning in GIS: An Overview of Definitions, Prerequisites and Challenges;Citation:7
+
+Title:Survey on Spatial Data Modelling Approaches;Citation:11
+
+Title:Indexing Multi-Dimensional Trajectories for Similarity Queries;Citation:0
+
+Title:Mining in Spatiotemporal Databases;Citation:1
+
+Title:Applications of Moving Objects Databases;Citation:13
+
+Title:Simple and Incremental Nearest-Neighbor Search for Spatiotemporal Databases;Citation:0
+
+Title:Source Integration for Data Warehousing;Citation:8
+
+Title:Incomplete Information in Multidimensional Databases;Citation:17
+
+Title:Privacy in Multidimensional Databases;Citation:7
+
+Title:Time in Multidimensional Databases;Citation:12
+
+Title:Materialized Viewsin Multidimensional Databases;Citation:7
+
+Title:Cooperation with Geographic Databases;Citation:26
+
+Title:Hierarchies;Citation:7
+
+Title:Basic Notions;Citation:3
+
+Title:Operators for Multidimensional Aggregate Data;Citation:19
+
+Title:Dynamic Multidimensional Data Cubes;Citation:1
+
+Title:Multidimensionality in Statistical, OLAP, and Scientific Databases;Citation:3
+
+Title:Querying Multidimensional Data;Citation:0
+
+Title:Towards an Autopoietic Approach for Information Systems Development;Citation:3
+
+Title:Business Action and Information Modeling - the Task of the Next Millennium;Citation:15
+
+Title:Information System Design Based on Reuse of Conceptual Components;Citation:2
+
+Title:An Environment for Managing Enterprise Domain Ontology;Citation:4
+
+Title:Spatial and Topological Data Models;Citation:0
+
+Title:Coherent, Consistent, and Comprehensive Modeling of Communication, Information, Action, and Organization;Citation:4
+
+Title:A Unifying Translation of Natural Language Patterns to Object and Process Modeling;Citation:7
+
+Title:An Information Management Environment Based on the Model of Object Primitives;Citation:0
+
+Title:Designing Model-Based Intelligent Dialogue Systems;Citation:9
+
+Title:Conceptual Modeling Process and the Notion of a Concept;Citation:8
+
+Title:Integrating Fact-oriented Modeling with Object-oriented Modeling;Citation:11
+
+Title:A Language/action Based Approach to Information Modeling;Citation:5
+
+Title:From Information Model to Controllable Implementation;Citation:1
+
+Title:Modeling of Customers' Interactive Control of Service Processes;Citation:0
+
+Title:On the Convergence of Analysis and Design Methods for Multi-agent, Component-based and Object-oriented systems;Citation:0
+
+Title:Requirements for Web Engineering Methodologies;Citation:13
+
+Title:A Genre-Based Method for Information Systems Planning;Citation:24
+
+Title:Metrics for Managing Quality in Information Modeling;Citation:3
+
+Title:Preface;Citation:16
+
+Title:Object-Oriented Web Applications Modeling;Citation:14
+
+Title:Information Modeling in the Internet Age - Challenges, Issues, and Research Directions;Citation:6
+
+Title:Conceptual Web Site Modeling;Citation:3
+
+Title:Audience-driven Web Design;Citation:63
+
+Title:A Systematic Relationship Analysis for Modeling Information Domains;Citation:5
+
+Title:HMT: Modeling Interactive and Adaptive Hypermedia Applications;Citation:6
+
+Title:Mapping UML Techniques to Design Activities;Citation:2
+
+Title:The Whole-Part Relationship in the Unified Modeling Language: A New Approach;Citation:21
+
+Title:Temporal OCL Meeting Specification Demands for Business Components;Citation:50
+
+Title:A Systematic Approach to Transform UML Static Models to Object-Oriented Code;Citation:4
+
+Title:An Interactive Viewpoint on the Role of UML;Citation:17
+
+Title:Supplementing UML with concepts from ORM;Citation:12
+
+Title:Systematic Design of Web Applications with UML;Citation:49
+
+Title:RUP - A process model for working with UML;Citation:13
+
+Title:Extension of the Unified Modeling Language for Mobile Agents;Citation:38
+
+Title:Using a Semiotic Framework to Evaluate UML for the Development of Models of High Quality;Citation:50
+
+Title:Rendering Distributed Systems in UML;Citation:5
+
+Title:Linking UML with Integrated Formal Techniques;Citation:8
+
+Title:Data Modeling And UML;Citation:2
+
+Title:Rational Unified Process and Unified Modeling Language - A GOMS Analysis;Citation:5
+
+Title:UML Modeling Support for Early Reuse Decisions in Component-Based Development;Citation:2
+
+Title:Modeling of Business Rules for Active Database Application Specification;Citation:6
+
+Title:CMU-WEB: A Conceptual Model with Metrics for Testing and Designing Usability in Web Applications;Citation:0
+
+Title:Enforcing Cardinality Constraints in the ER Model with Integrity Methods;Citation:5
+
+Title:Algorithm Development, Simulation Analysis, and Parametric Studies for Data Allocation in Distributed Database Systems;Citation:0
+
+Title:Object-Oriented Database Benchmarks;Citation:3
+
+Title:The Role of Use Cases in the UML: A Review and Research Agenda;Citation:3
+
+Title:Object-Process Methodology Applied to Modeling Credit Card Transactions;Citation:32
+
+Title:Information Analysis in UML and ORM: A Comparison;Citation:6
+
+Title:Cooperative Query Processing via Knowledge Abstraction and Query Relaxation;Citation:5
+
+Title:Ternary Relationships: Semantic Requirements and Logically Correct Alternatives;Citation:6
+
+Title:A Case Study of the Use of the Viable System Model in the Organization of Software Development;Citation:2
+
+Title:Using Weakly Structured Documents at the User-Interface Level to Fill in a Classical Database;Citation:3
+
+Title:Extending UML for Space- and Time-Dependent Applications;Citation:9
+
+Title:Changing the Face of War through Telemedicine and Mobile E-commerce;Citation:0
+
+Title:FOOM - Functional and Object-Oriented Methodology for Analysis and Design of Information Systems;Citation:1
+
+Title:How Complex Is the Unified Modeling Language?;Citation:16
+
+Title:Managing Organizational Hypermedia Documents: A Meta-information System;Citation:0
+
+Title:Formal Approaches to Systems Analysis Using UML: An Overview;Citation:33
+
+Title:Implementation Techniques For Extensible Object Storage Systems;Citation:1
+
+Title:A Review of Experiments on Natural Language Interfaces;Citation:4
+
+Title:A Framework for Analyzing Mobile Transaction Models;Citation:20
+
+Title:Methodology Evaluation Framework for Component-Based System Development;Citation:16
+
+Title:Considering Mobility in Query Processing for Mobile Commerce Systems;Citation:0
+
+Title:A Run-Time Based Technique to Optimize Queries in Distributed Internet Databases;Citation:0
+
+Title:Towards Flexible Specification, Composition, and Coordination of Workflow Activities;Citation:0
+
+Title:On The Representation Of Temporal Dynamics;Citation:3
+
+Title:Software Agents for Mobile Commerce Services Support;Citation:3
+
+Title:The Development of Ordered SQL Packages in Peer-to-Peer Warehousing Environment;Citation:0
+
+Title:Performance Implication of Knowledge Discovery Techniques in Databases;Citation:0
+
+Title:Applying UML For Designing Multidimensional Databases And OLAP Applications;Citation:19
+
+Title:Meta-model Based Information Mediation;Citation:0
+
+Title:Federated Process Framework for Transparent Process Monitoring in Business Process Outsourcing;Citation:0
+
+Title:Fuzzy Aggregations and Fuzzy Specializations in Eindhoven Fuzzy EER Model;Citation:2
+
+Title:Using DEMO and ORM in Concert: A Case Study;Citation:17
+
+Title:Improving the Understandability of Dynamic Semantics: An Enhanced Metamodel for UML State Machines;Citation:1
+
+Title:Online Analytic Mining for Web Access Patterns;Citation:0
+
+Title:Comparing Metamodels for ER, ORM and UML Data Models;Citation:31
+
+Title:Regression Test Selection for Database Applications;Citation:15
+
+Title:Revisiting Workflow Modeling with Statecharts;Citation:0
+
+Title:Normalization of Relations with Nulls in Candidate Keys: Traditional and Domain Key Normal Forms;Citation:0
+
+Title:Metrics for Workflow Design: How an Information Processing View on Business Processes Helps to Make Good Designs;Citation:0
+
+Title:Agile Development Methods and Component-Orientation: A Review and Analysis;Citation:2
+
+Title:An Evaluation Framework for Component-Based and Service-Oriented System Development Methodologies;Citation:7
+
+Title:An Attempt to Establish a Correspondence between Development Methods and Problem Domains;Citation:0
+
+Title:Evaluation of Component-Based Development Methods;Citation:16
+
+Title:Two Meta-Models for Object-Role Modeling;Citation:12
+
+Title:Participatory Development of Enterprise Process Models;Citation:18
+
+Title:Constraints on Conceptual Join Paths;Citation:10
+
+Title:Evaluating Conceptual Coherence in Multi-Modeling Techniques;Citation:3
+
+Title:A Comparison of the FOOM and OPM Methodologies for User Comprehension of Analysis Specifications;Citation:3
+
+Title:An Empirical Investigation of Requirements Specification Languages: Detecting Defects While Formalizing Requirements;Citation:1
+
+Title:Goal Modeling in Requirements Engineering: Analysis and Critique of Current Methods;Citation:98
+
+Title:Assessing Enterprise Modeling Languages Using a Generic Quality Framework;Citation:38
+
+Title:Preface;Citation:12
+
+Title:Validating an Evaluation Framework for Requirements Engineering Tools;Citation:15
+
+Title:An Approach for Evolution-Driven Method Engineering;Citation:16
+
+Title:A Taxonomic Class Modeling Methodology for Object-Oriented Analysis;Citation:22
+
+Title:A Service-Oriented Component Modeling Approach;Citation:2
+
+Title:Using a Semiotic Framework for a Comparative Study of Ontology Languages and Tools;Citation:13
+
+Title:Using Logic for Querying XML Data;Citation:12
+
+Title:Ubiquitous Access to Web Databases;Citation:0
+
+Title:Protecting Datasources over the Web: Policies, Models, and Mechanisms;Citation:3
+
+Title:Practical Case Study of a Web-based Tutor Payment System;Citation:1
+
+Title:Web Content Management and Dynamic Web Pages - A Tutorial;Citation:0
+
+Title:Cache Management for Web-Powered Databases;Citation:9
+
+Title:Database-Driven Product Catalog System;Citation:1
+
+Title:The Development of On-line Tests Based on Multiple Choice Questions;Citation:6
+
+Title:Web Mining to Create a Domain Specific Web Portal Database;Citation:0
+
+Title:Web-Powered Databases: The Low Level in C++;Citation:0
+
+Title:Spatial Databases: Technologies, Techniques and Trends;Citation:33
+
+Title:Ein Datenbankkern zur Speicherung variabel strukturierter Feature-Terme. Implementierungstechniken;Citation:0
+
+Title:Oberflächenbasierte Segmentierung von Tiefenbildern;Citation:3
+
+Title:Ein planbasierter Ansatz zur Generierung multimedialer Präsentationen;Citation:51
+
+Title:Effiziente Pufferverwaltung in parallelen relationalen Datenbanksystemen;Citation:2
+
+Title:Operationalisierung des Modells der Expertise mit KARL;Citation:38
+
+Title:Indexierung und Retrieval von Feature-Bäumen am Beispiel der linguistischen Analyse von Textkorpora;Citation:4
+
+Title:Inkrementelle wörterbuchbasierte Wortschatzerweiterungen in sprachverarbeitenden Systemen. Entwurf einer konstruktiven Lexikonkonzeption;Citation:5
+
+Title:HAMVIS: Generierung von Visualisierungen in einem Rahmensystem zur systematischen Entwicklung von Benutzungsschnittstellen;Citation:2
+
+Title:Ein modellgestütztes Analysesystem zum Bildverstehen strukturierter Dokumente;Citation:3
+
+Title:Verwendung von Bildauswertungsmethoden zur Erkennung und Lagebestimmung von generischen polyedrischen Objekten im Raum;Citation:9
+
+Title:Implementierung einer effizienten Anfrageauswertung für ein deduktives Datenbanksystem;Citation:1
+
+Title:Fehlertolerante und effiziente automatische Analyse digitalisierter Dokumente zur Gewinnung von Hypertextstrukturen;Citation:0
+
+Title:Modellkonstruktion in MIKE. Methoden und Werkzeuge;Citation:6
+
+Title:Steuerungsansätze auf der Basis Neuronaler Netze für sechsbeinige Laufmaschinen;Citation:0
+
+Title:Validierung konzeptueller Schemata;Citation:1
+
+Title:Fuzzy-Techniken in objektorientierten Datenbanksystemen zur Unterstützung von Entwurfsprozessen;Citation:7
+
+Title:Pragmatische Programmsynthese;Citation:3
+
+Title:Separierung und Resolution multipler Perspektiven in der konzeptuellen Modellierung;Citation:9
+
+Title:Erweiterung der Wissensbasierten CAD-Konstruktion um Restriktionsnetztechniken;Citation:0
+
+Title:Zur Darstellung und Verarbeitung von Wissen über Himmelsrichtungen;Citation:2
+
+Title:Adaptive Neuronale Netze und ihre Anwendung als Modelle der Entwicklung kortikaler Karten;Citation:10
+
+Title:Extraktion von linienförmigen Merkmalen und Ermittlung des optischen Flusses mit seinen Ableitungen aus Voll- und Halbbildfolgen;Citation:6
+
+Title:Analyse und Optimierung von Indexstrukturen in Geo-Datenbanksystemen;Citation:2
+
+Title:Externe Schemata in objektorientierten Datenbansystemen;Citation:0
+
+Title:Erklärungsbasiertes Computer-Sehen von Bildfolgen;Citation:3
+
+Title:Zur natürlichsprachlichen interaktiven Unterstützung im Datenbankentwurf;Citation:3
+
+Title:Optimierung deklarativer Anfragen in Objektbanken;Citation:3
+
+Title:Die Bildanalysesprache TRIAS;Citation:1
+
+Title:Deduktion mit Shannongraphen für Prädikatenlogik erster Stufe;Citation:23
+
+Title:Parallele Suche mit randomisiertem Wettbewerb in Inferenzsystemen;Citation:21
+
+Title:Erklärungen für komplexe Wissensbasen;Citation:2
+
+Title:Wissensbasierte Verfahren zur Synthese mathematischer Beweise: Eine kombinatorische Anwendung;Citation:10
+
+Title:Definition of Behavior in Object-Oriented Databases by View Integration;Citation:7
+
+Title:Schematransformationen in Datenbanken;Citation:3
+
+Title:Ein Regelsystem zur Integrtätssicherung in aktiven relationalen Datenbanksystemen;Citation:4
+
+Title:Verteiltes und kooperatives Planen in einer flexiblen Fertigungsumgebung;Citation:32
+
+Title:Eine parallele Architektur zur inkrementellen Generierung multimodaler Dialogbeiträge;Citation:24
+
+Title:View Integration für objektorientierte Datenbanken;Citation:7
+
+Title:Grammatikentwicklung mit Constraint Logik Programmierung. Implementierung einer Grammatik für das Deutsche mit PROLOG III;Citation:4
+
+Title:Replikationsmanagement in verteilten Informationssystemen;Citation:4
+
+Title:A Tour on TriGS. Devolopment of an Active System and Application of Rule Patterns for Active Database Design;Citation:6
+
+Title:Optimierung von Speicherzugriffskosten in Objektbanken: Clustering und Prefetching;Citation:4
+
+Title:Transaction Services for Knowledge Base Management Systems. Modeling Aspects, Architectural Issues, and Realization Techniques;Citation:5
+
+Title:Diagnosis and Repair of Constraint Violations in Database Systems;Citation:17
+
+Title:Föderierte Datenbanktechnologie für die Molekularbiologie: Konzepte, Einsatz und Nutzen;Citation:0
+
+Title:Das digital lecture board. Konzeption, Design und Entwicklung eines Whiteboards für synchrones Teleteaching;Citation:22
+
+Title:Bedarfsorientierte Dienstvermittlung in vernetzten Systemen;Citation:0
+
+Title:Materialisation and Parallelism in the Mapping of an Object Model to a Relational Multi-processor System;Citation:6
+
+Title:Flexible Kontrolle in Expertensystemen zur Planung und Konfigurierung in technischen Domänen;Citation:24
+
+Title:Wissensbasiertes Lösen von Ablaufplanungsproblemen durch explizite Heuristiken;Citation:35
+
+Title:Ein Basisdienst für die zuverlässige Abwicklung langdauernder Aktivitäten;Citation:1
+
+Title:Konzeptionelle Modellierung von Informationssystemen als verteilte Objektsysteme;Citation:27
+
+Title:Trabsaktionsverwaltung in heterogenen, föderierten Datenbanksystemen;Citation:8
+
+Title:Entwurf einer Sprache für die verhaltensorientierte konzeptionelle Modellierung von Informationssystemen;Citation:3
+
+Title:Schemaintegration für den Entwurf föderierter Datenbanken;Citation:22
+
+Title:Erwartungsgestützte Analyse medizinischer Befundungstexte. Ein wissensbasiertes Modell zur Sprachverarbeitung;Citation:9
+
+Title:Architektur verteilter Workflow-Management-Systeme;Citation:14
+
+Title:ALCP - Ein hybrider Ansatz zur Modellierung von Unsicherheit in terminologischen Logiken;Citation:8
+
+Title:Kognitives Parsing: Repräsentation und Verarbeitung sprachlichen Wissens;Citation:85
+
+Title:Effiziente Konsistenzprüfunf in Datenbanksystemen;Citation:1
+
+Title:MoKon - Ein Ansatz zur Wissensbasierten Konfiguration von Variantenerzeugnissen;Citation:4
+
+Title:Skalierbare Multicast-Kommunikation in Weitverkehrsnetzen;Citation:8
+
+Title:Source-to-Source Transformationen zur Erklärung des Programmverhaltens bei deduktiven Datenbanken;Citation:9
+
+Title:Symbolisches Lösen mathematischer Probleme durch Kooperation algorithmischer und logischer Systeme;Citation:20
+
+Title:Situationsanalyse bei Kontakten während der Ausführung von Roboterbewegungen in unsicheren Umgebungen;Citation:2
+
+Title:Begleitende Montageablaufplanung für ein sensorgestütztes Zweiarm-Manipulatorsystem;Citation:2
+
+Title:Sichtenmanagement in Client-Server-Systemen;Citation:2
+
+Title:Dynamische Modularisierung lexikalischer Informationen in einem Wiederverwendungsszenario;Citation:2
+
+Title:Wissensbasierte Analyse medizinischer Bilder - das Biotop-Verfahren;Citation:0
+
+Title:Heuristic and Randomised Optimisation Techniques in Object-Oriented Database Systems;Citation:3
+
+Title:Änderungskontrolle in deduktiven Datenbanken;Citation:2
+
+Title:Verdeckungen und spezielle Sichten bei der Polyederrekonstruktion;Citation:0
+
+Title:Access Control in Object-Oriented Federated Database Systems;Citation:12
+
+Title:Interaktive Akquisition elementarer Roboterfähigkeiten;Citation:5
+
+Title:Toleranz- und Kongruenzrelationen in relationalen Datenbanken;Citation:1
+
+Title:Modellierung von Expertise über Konfigurierungsaufgaben;Citation:16
+
+Title:Reduktion zur effizienten Programmierung von Methoden in deduktiven objektorientierten Datenbanken;Citation:0
+
+Title:An Approach to Query Processing in Advanced Database Systems;Citation:3
+
+Title:Metadata-Based Middleware for Integrating Information Systems;Citation:0
+
+Title:Semantic Integrity Constraints in Federated Database Schemata;Citation:17
+
+Title:MODEL-K: Modellierung und Operationalisierung von Selbsteinschätzung und -steuerung durch Reflexion und Metawissen;Citation:6
+
+Title:EMSY - Ein Modellierungskonzept für ökologische und biologische Systeme unter besonderer Berücksichtigung ihrer dynamischen Veränderung;Citation:2
+
+Title:Akquisition von Integritätsbedingungen in Datenbanken;Citation:6
+
+Title:Inkrementelle, domänenunabhängige Thesauruserstellung in dokumentbasierten Informationssystemen durch Kombination von Konstruktionsverfahren;Citation:8
+
+Title:Dynamische Beziehungen als Modell der Kooperation in verteilten Objektsystemen;Citation:0
+
+Title:Eine mehrschichtige Architektur zur Fehlerdiagnose und Fehlerbehebung bei der Entwicklung logischer Programme;Citation:1
+
+Title:Entwurf eines objektorientierten Datenbankmodells Für relationale Datenbanksysteme;Citation:3
+
+Title:Terminierung und Konfluenz in einer aktiven objektorientierten Datenbank;Citation:0
+
+Title:Integration von Aktionsplanung und Konfigurierung;Citation:0
+
+Title:Detektion, Verfolgung und Klassifikation bewegter Objekte in monokularen Bildfolgen am Beispiel von Straßenverkehrsszenen;Citation:50
+
+Title:Produkorientierte automatische Planung von Prüfoperationen bei der robotergestützten Montage;Citation:1
+
+Title:Ein Verfahren zur semi-automatischen Generierung von Mediatorspezifikationen;Citation:4
+
+Title:Wissensbasierte Verkehrsszenenanalyse zur Fahrerunterstützung;Citation:6
+
+Title:Replikation in vernetzten Systemen mit mobilen Teilnehmern;Citation:5
+
+Title:Funktionsorientiertes Management heterogener ATM-Netzwerke;Citation:1
+
+Title:Control Mechanisms in Distributed Object Bases. Synchronization, Deadlock Detection, Migration;Citation:4
+
+Title:Zeitrepräsentation und merkmalsgesteuerte Suche zur Terminplanung;Citation:4
+
+Title:Modellbildung und Architektur von verteilten Workflow-Management-Systemen;Citation:9
+
+Title:Flexible Steuerung eines sprachverstehenden Systems mit homogener Wissensbasis;Citation:33
+
+Title:Konzeption eines regelbasierten Systems für Produktdatenmanagement in CIM;Citation:1
+
+Title:Digitale und Allgemeine Topologie in der bildhaften Wissensrepräsentation;Citation:15
+
+Title:Einbettung von Konzepthierarchien in ein Deduktives Datenbanksystem;Citation:0
+
+Title:Typsichere Objektbankmigration;Citation:1
+
+Title:MISTRAL: Processing Relational Queries using a Multidimensional Access Technique;Citation:3
+
+Title:Wissensintensives Lernen für zeitkritische technische Diagnoseaufgaben;Citation:1
+
+Title:Selbstorganisierende neuronale Netzwerkmodelle zur Bewegungssteuerung;Citation:15
+
+Title:Lernen durch Genetisch-Neuronale Evolution: Aktive Anpassung an unbekannte Umgebungen mit selbstentwickelten parallelen Netzwerken;Citation:5
+
+Title:Schema-unabhängige Anfragesprachen für relationale Datenbanken;Citation:0
+
+Title:Qualitative Analyse im Rahmen qualitativen und modellbasierten Schließens;Citation:1
+
+Title:Ein Dialogmodul für ein Spracherkennungs- und Dialogsystem;Citation:13
+
+Title:Cyclops - Wissensbasierte Bildanalyse in der Medizin;Citation:0
+
+Title:Hypermediabasiertes Knowledge Engineering für verteilte wissensbasierte Systeme;Citation:22
+
+Title:Anfrageoptimierung in objektrelationalen Datenbanken durch kostenbedingte Termersetzungen;Citation:2
+
+Title:Dynamische semantische Netze - Zur Kontextabhängigkeit von Wortbedeutungen;Citation:11
+
+Title:Extending the Stratification Approach for Deductive Database Systems;Citation:4
+
+Title:Wissensbasierte Synthese von Bildanalyseprogrammen;Citation:4
+
+Title:Adaptive Roboterkontrolle mit konnektionistischen Systemen;Citation:3
+
+Title:Design and Implementation of a Database Programming Language for XML-based Applications;Citation:1
+
+Title:Towards the Intelligent On-line Home Office;Citation:0
+
+Title:The IT Leap and the Sektornet;Citation:0
+
+Title:Technology as the Catalyst of Users' Acceptance in Electronic Commerce;Citation:1
+
+Title:Introduction by the Editors;Citation:0
+
+Title:ACCORD Solutions for Flexible Working;Citation:0
+
+Title:Flexible Quality-of-Service Technology for Supporting Voice/Data-Integrated Nomadic Networking;Citation:3
+
+Title:The Telco's Goldmine - 50 Mb/s to the General Public over the Local Telephone Lines;Citation:0
+
+Title:Support Services for Business Process Oriented Telework. The COBIP Project;Citation:0
+
+Title:New Ways of Flexible Working: The Contribution of ACTS, and Issues for IST;Citation:0
+
+Title:Interoperability for Multimedia Services: The Approach of the Standards Bodies - An Overview Based on ACTS Guideline SII G06;Citation:0
+
+Title:Internet Service Architectures and ATM - The ELISA Approach;Citation:0
+
+Title:Developing a Reference Model for Networked Flexible Work through Industry Trials;Citation:0
+
+Title:New Business Paradigms;Citation:0
+
+Title:UMPTIDUMPTI - Anytime, Anywhere, Anybody - UMTS for ALL;Citation:2
+
+Title:Giving Mobile Users Access to Net-Based Services - A Mobile Agent Approach;Citation:2
+
+Title:Gestalt - On-line Education and Training - State of the Art;Citation:0
+
+Title:TECODIS. The Experience of Teleworking for Software Developers;Citation:0
+
+Title:Flexible Working Technology for Sustainable Development and Social Inclusion;Citation:0
+
+Title:On Modeling Conformance for Flexible Transformation over Data Models;Citation:16
+
+Title:Knowledge Representation and Transformation in Ontology-based Data Integration;Citation:5
+
+Title:The 'Family of Languages' Approach to Semantic Interoperability;Citation:27
+
+Title:UML for the Semantic Web: Transformation-Based Approaches;Citation:107
+
+Title:Tracing Data Lineage Using Schema Transformation Pathways;Citation:28
+
+Title:Transforming UML Domain Descriptions into Configuration Knowledge Bases;Citation:0
+
+Title:Transforming Data Models with UML;Citation:19
+
+Title:Schema Conversion Methods between XML and Relational Models;Citation:56
+
+Title:RDFT: A Mapping Meta-Ontology for Web Service Integration;Citation:10
+
+Title:A Logic Programming Approach to RDF Document and Query Transformation;Citation:11
+
+Title:Ontology Extraction for Distributed Environments;Citation:16
+
+Title:Knowledge Transformation for the Semantic Web;Citation:7
+
+Title:Semantic-Based Decomposition of Transactions;Citation:2
+
+Title:An Extensible Approach to Realizing Advanced Transaction Models;Citation:8
+
+Title:The Reflective Transaction Framework;Citation:4
+
+Title:Customizable Concurrency Control for Persistent Java;Citation:23
+
+Title:Inter- and Intra-Transaction Parallelism for Combined OLTP/OLAP Workloads;Citation:4
+
+Title:Transaction Optimization Techniques;Citation:3
+
+Title:Towards Distributed Real-Time Concurrency and Coordination Control;Citation:2
+
+Title:Flexible Commit Protocols for Advanced Transaction Processing;Citation:8
+
+Title:Toward Formalizing Recovery of (Advanced) Transactions;Citation:10
+
+Title:ConTracts Revisited;Citation:61
+
+Title:Transaction Processing in Broadcast Disk Environments;Citation:20
+
+Title:Transactions in Transactional Workflows;Citation:35
+
+Title:Logical Handling of Inconsistent and Default Information;Citation:3
+
+Title:Approximate Reasoning Systems: Handling Uncertainty and Imprecision in Information Systems;Citation:6
+
+Title:An Introduction to the Fuzzy Set and Possibility Theory-Based Treatment of Flexible Queries and Uncertain or Imprecise Databases;Citation:124
+
+Title:Uncertainty in Intelligent Databases;Citation:11
+
+Title:A Bibliography on Uncertainty Management in Information Systems;Citation:46
+
+Title:Probabilistic and Bayesian Representations of Uncertainty in Information Systems: A Pragmatic Introduction;Citation:4
+
+Title:Uncertain, Incomplete, and Inconsistent Data in Scientific and Statistical Databases;Citation:24
+
+Title:On the Classification of Uncertainty Techniques in Relation to the Application Needs;Citation:3
+
+Title:Sources of Uncertainty, Imprecision, and Inconsistency in Information Systems;Citation:29
+
+Title:Knowledge Discovery and Acquisition From Imperfect Information;Citation:3
+
+Title:Imperfect Information: Imprecision and Uncertainty;Citation:209
+
+Title:The Transferable Belief Model for Belief Representation;Citation:41
+
+Title:Uncertainty in Information Retrieval Systems;Citation:43
+
+Title:Imperfect Information in Relational Databases;Citation:53
+
+Title:STORM: An Object-Oriented Multimedia DBMS;Citation:26
+
+Title:Synchronization and User Interaction in Distributed Multimedia Presentation Systems;Citation:5
+
+Title:Database Approach for the Management of Multimedia Information;Citation:8
+
+Title:A Visual Multimedia Query Language for Temporal Analysis of Video Data;Citation:39
+
+Title:A Multimedia Query Specification Language;Citation:27
+
+Title:Searching and Browsing a Shared Video Database;Citation:54
+
+Title:Load-Balanced Data Placement for Variable-Rate Continuous Media Retrieval;Citation:4
+
+Title:Model for Interactive Retrieval of Videos and Still Images;Citation:8
+
+Title:Playout Management in Multimedia Database Systems;Citation:13
+
+Title:An Object-Oriented Modeling of Multimedia Database Objects and Applications;Citation:6
+
+Title:Integration of Simulation and Multimedia in Automatically Generated Internet Courses;Citation:4
+
+Title:An Authoring Environment for the SimulNet Educational Platform;Citation:0
+
+Title:BabelWin: An environment for learning and monitoring reading and writing skills;Citation:4
+
+Title:An Internet Distance-Learning Operating Model;Citation:4
+
+Title:Synchronous Drawing Actions in Environments of Collaborative Learning of Design;Citation:3
+
+Title:APRISA: A Tool for Teaching the Interconnection of Open Systems;Citation:0
+
+Title:Adaptive Internet-based learning with the TANGOW system;Citation:0
+
+Title:Interactive Mathematics Teaching with Mathedu;Citation:0
+
+Title:Teaching Support Units;Citation:27
+
+Title:Introducing Waves Using Simulations Controled From Html Files;Citation:0
+
+Title:Using Bayesian Networks in Computerized Adaptive Tests;Citation:11
+
+Title:XML-based Integration of Hypermedia Design and Component-Based Techniques in the Production of Educational Applications;Citation:5
+
+Title:Learning Basque in a Distance-Adaptive way;Citation:5
+
+Title:Collaborative planning for problem solution in distance learning;Citation:1
+
+Title:High Level Design of Web-Based Environments for Distance Education;Citation:2
+
+Title:M.A.C. A Hypermedia System for Learning Electronics;Citation:1
+
+Title:Educational Web Sites: Some Issues for Evaluation;Citation:0
+
+Title:Building a Virtual Learning Environment Using Agents;Citation:0
+
+Title:Approach to Intelligent Adaptive Testing;Citation:0
+
+Title:Evaluation Criteria for Hypermedia Educational Systems;Citation:8
+
+Title:Using teachers as heuristics evaluators of educational software interfaces;Citation:1
+
+Title:Creating Collaborative Environments for Web-based Training Scenarios;Citation:3
+
+Title:The Next Step in Computer Based Education: the Learning Technologies Standardisation;Citation:4
+
+Title:Advanced Learning Environments: Changed Views and Future Perspectives;Citation:24
+
+Title:TutorMap. Past, Present and Future of a Mathematics Tutoring System;Citation:0
+
+Title:Learning Communities in the Web: Concepts and strategies;Citation:11
+
+Title:Symbolic Calculus Training by Means of MathTrainer;Citation:1
+
+Title:EJS: An Authoring Tool to Develop Java Applications;Citation:6
+
+Title:EXercita. A System for Archiving and Publishing Programming Exercises;Citation:3
+
+Title:Interactive Design of Adaptive Courses;Citation:11
+
+Title:Using Simulation and Virtual Reality for Distance Education;Citation:3
+
+Title:ED68K. A design framework for the development of digital systems based on MC68000;Citation:0
+
+Title:Guided Collaborative Chess Tutoring through Game History Analysis;Citation:9
+
+Title:Using Analysis, Design and Development of Hypermedia Applications in the Educational Domain;Citation:6
+
+Title:Shared Whiteboard Manager and Student Notebook for the PLAN-G Telematic Platform;Citation:1
+
+Title:Creation of a Multimedia System for Learning about Oscillations;Citation:1
+
+Title:Artificial Intelligence in the HyperClass: Design Issues;Citation:0
+
+Title:Improving the Language Mastery through Responsive Environments;Citation:6
+
+Title:Test Construction and Management with Network Adaptive Control;Citation:0
+
+Title:Foundations of Programming: a Teaching Improvement;Citation:1
+
+Title:SQL-92 Compatibility Issues;Citation:3
+
+Title:Aggregates;Citation:7
+
+Title:Rationale for a Temporal Extension to SQL;Citation:3
+
+Title:Supporting Multiple Calendars;Citation:3
+
+Title:The Surrogate Data Type;Citation:3
+
+Title:Vacuuming;Citation:26
+
+Title:A Timestamp Representation;Citation:8
+
+Title:Temporal Granularity;Citation:30
+
+Title:Temporal Indeterminancy;Citation:22
+
+Title:The Baseline Clock;Citation:9
+
+Title:Valid-Time Selection and Projection;Citation:1
+
+Title:The TSQL2 Data Model;Citation:47
+
+Title:Schema Versioning;Citation:36
+
+Title:Introduction to TSQL2;Citation:4
+
+Title:TSQL2 Tutorial;Citation:41
+
+Title:Event Tables;Citation:4
+
+Title:An Algebra for TSQL2;Citation:23
+
+Title:An Architectural Framework;Citation:0
+
+Title:Clustering in Metric Spaces with Applications to Information Retrieval;Citation:15
+
+Title:Techniques for Textual Document Indexing and Retrieval Knowledge Sources and Data Mining;Citation:6
+
+Title:A Science Data System Architecture for Information Retrieval;Citation:19
+
+Title:Finding Topics in Collections of Documents: A Shared Nearest Neighbor Approach;Citation:100
+
+Title:Techniques for Clustering Massive Data Sets;Citation:4
+
+Title:On Quantitative Evaluation of Clustering Systems;Citation:116
+
+Title:Clustering Techniques for Large Database Cleansing;Citation:2
+
+Title:Query Clustering in the Web Context;Citation:25
+
+Title:Granular Computing for the Design of Information Retrieval Support Systems;Citation:16
+
+Title:The Discovery of the Artificial. Behavior, Mind and Machines Before and Beyond Cybernetics;Citation:132
+
+Title:Multimedia Mining: A Highway to Intelligent Multimedia Documents;Citation:23
+
+Title:Advanced Database Indexing;Citation:130
+
+Title:Advanced Signature Indexing for Multimedia and Web Applications;Citation:3
+
+Title:Loop Tiling for Parallelism;Citation:167
+
+Title:A Framework for Meta-Information in Digital Libraries;Citation:19
+
+Title:Overview on Using Metadata to manage Multimedia Data;Citation:67
+
+Title:Metadata for Mixed-Media Access;Citation:39
+
+Title:Content-Based Image Retrieval using Metadata and Relaxation Techniques;Citation:10
+
+Title:Metadata Management for Geographic Information Discovery and Exchange;Citation:11
+
+Title:Using Metadata for the Intelligent Browsing of Structured Media Objects;Citation:52
+
+Title:Metadata in Geographic and Environmental Data Management;Citation:36
+
+Title:Video Data Management Systems: Metadata and Architecture;Citation:27
+
+Title:A Metadatabase System for Semantic Image Search by a Mathematical Model of Meaning;Citation:156
+
+Title:The Use of Metadata for the Rendering of Personalized Video Delivery;Citation:13
+
+Title:Metadata for Content-based Retrieval of Speech Recording;Citation:5
+
+Title:Microsoft SQL Server (Chapter 27);Citation:1
+
+Title:Oracle (Chapter 25);Citation:0
+
+Title:IBM DB2 Universal Database (Chapter 26);Citation:0
+
+Title:Extracting Reaction Information from Chemical Databases;Citation:8
+
+Title:Integrated Learning in a Real Domain;Citation:8
+
+Title:Attribute-Oriented Induction in Relational Databases;Citation:306
+
+Title:Statistical Technique for Extracting Classificatory Knowledge from Databases;Citation:106
+
+Title:Summary Data Estimation Using Decision Trees;Citation:11
+
+Title:Information Discovery through Hierarchical Maximum Entropy Discretization and Synthesis;Citation:109
+
+Title:Using Functions to Encode Domain and Contextual Knowledge in Statistical Induction;Citation:8
+
+Title:Knowledge Discovery in Databases: An Overview;Citation:2209
+
+Title:The Trade-Off between Knowledge and Data in Knowledge Acquisition;Citation:49
+
+Title:Automated Knowledge Generation From a CAD Database;Citation:4
+
+Title:Incremental Discovery of Rules and Structure by Hierarchical and Parallel Clustering;Citation:31
+
+Title:A Support System for Interpreting Statistical Data;Citation:72
+
+Title:Mining for Knowledge in Databases: Goals and General Description of the INLEN System;Citation:98
+
+Title:Automating the Discovery of Causal Relationships in a Medical Records Database: The POSCH AI Project;Citation:21
+
+Title:Induction of Decision Trees from Complex Structured Data;Citation:28
+
+Title:Discovery of Medical Diagnostic Information: An Overview of Methods and Results;Citation:11
+
+Title:Knowledge Discovery as a Threat to Database Security;Citation:126
+
+Title:Minimal-Length Encoding and Inductive Inference;Citation:25
+
+Title:Discovery, Analysis, and Presentation of Strong Rules;Citation:1163
+
+Title:On Evaluation of Domain-Independent Scientific Function-Finding Systems;Citation:3
+
+Title:Justification-Based Refinement of Expert Knowledge;Citation:5
+
+Title:Rule Discovery for Query Optimization;Citation:16
+
+Title:Unsupervised Discovery in an Operational Control Setting;Citation:4
+
+Title:Integration of Heuristic and Bayesian Approaches in a Pattern-Classification System;Citation:9
+
+Title:Discovering Functional Relationships from Observational Data;Citation:28
+
+Title:On Linguistic Summaries of Data;Citation:175
+
+Title:Interactive Mining of Regularities in Databases;Citation:82
+
+Title:Fast Discovery of Association Rules;Citation:2983
+
+Title:The Process of Knowledge Discovery in Databases;Citation:612
+
+Title:Graphical Models for Discivering Knowledge;Citation:122
+
+Title:Automating the Analysis and Cataloging of Sky Surveys;Citation:210
+
+Title:Discovering Informative Patterns and Data Cleaning;Citation:257
+
+Title:Bayesian Networks for Knowledge Discovery;Citation:229
+
+Title:Data Surveyor: Searching the Nuggets in Parallel;Citation:10
+
+Title:Using Inductive Learning To Generate Rules for Semantic Query Optimization;Citation:45
+
+Title:Explora: A Multipattern and Multistrategy Discovery Assistant;Citation:442
+
+Title:Data Mining and Knowledge Discovery Internet Resources;Citation:3
+
+Title:Metaqueries for Data Mining;Citation:129
+
+Title:Integrating Inductive and Deductive Reasoning for Data Mining;Citation:54
+
+Title:Modeling Subjective Uncertainty in Image Annotation;Citation:16
+
+Title:From Data Mining to Knowledge Discovery: Current Challenges and Future Directions;Citation:49
+
+Title:From Contingency Tables to Various Forms of Knowledge in Databases;Citation:82
+
+Title:Conceptual Modeling of Workflows;Citation:228
+
+Title:A Behaviorally Driven Approach to Object-Oriented Analysis and Design with Object Oriented Data Modeling;Citation:2
+
+Title:Coordinated Collaboration of Objects;Citation:0
+
+Title:Identifying Objects by Declarative Queries;Citation:9
+
+Title:Temporally Enhanced Database Design;Citation:23
+
+Title:Mapping an Extended Entity-Relationship into a Schema of Complex Objects;Citation:8
+
+Title:Leveraging Relational Data Assets;Citation:14
+
+Title:Database Integration: The Key to Data Interoperability;Citation:77
+
+Title:On the Design of Behavior Consistent Specializations of Object Life Cycles in OBD and UML;Citation:14
+
+Title:Objects and Events as Modeling Drivers;Citation:0
+
+Title:The Type System of LML;Citation:1
+
+Title:A Regular Type Language for Logic Programs;Citation:102
+
+Title:Logic Programming with Type Specifications;Citation:39
+
+Title:Semantic Types for Logic Programs;Citation:38
+
+Title:A Semantics for Typed Logic Programs;Citation:96
+
+Title:The Type System of a Higher-Order Logic Programming Language;Citation:35
+
+Title:Types and the Intended Meaning of Logic Programs;Citation:60
+
+Title:Dependent Types in Logic Programming;Citation:29
+
+Title:Polymorphically Typed Logic Programs;Citation:35
+
+Title:Using Moded Type Systems to Support Abstraction in Logic Programs;Citation:0
+
+Title:Actors: A Conceptual Foundation for Concurrent Object-Oriented Programming;Citation:134
+
+Title:Groundwork for an Object Database Model;Citation:26
+
+Title:Definition Groups: Making Sources into First-Class Objects;Citation:9
+
+Title:Object-Oriented Specifications;Citation:22
+
+Title:Unifying Functional, Object-Oriented and Relational Programming with Logical Semantics;Citation:317
+
+Title:A Model for Object-Based Inheritance;Citation:22
+
+Title:Vulcan: Logical Concurrent Objects;Citation:88
+
+Title:The BETA Programming Language;Citation:181
+
+Title:Block-Structure and Object-Oriented Languages;Citation:48
+
+Title:Development and Implementation of an Object-Oriented DBMS;Citation:157
+
+Title:A Mechanism for Specifying the Structure of Large, Layered Systems;Citation:46
+
+Title:Type Evolution in an Object-Oriented Database;Citation:169
+
+Title:A Substrate for Object-Oriented Interface Design;Citation:24
+
+Title:Inheritance and the Development of Encapsulated Software Systems;Citation:184
+
+Title:The Object-Oriented Classification Paradigm;Citation:210
+
+Title:Object Identity as a Query Language Primitive;Citation:656
+
+Title:Method Schemas;Citation:70
+
+Title:Self-explained Toolboxes;Citation:0
+
+Title:The Object-Oriented Database System Manifesto;Citation:1600
+
+Title:LISP O2: a Persistent Object-Oriented Lisp;Citation:10
+
+Title:Clustering Strategies in O2: An Overview;Citation:16
+
+Title:The O2 Programming Environment;Citation:5
+
+Title:Integrating Concurrency Control into an Object-Oriented Database System;Citation:60
+
+Title:Consistency of Versions in Object-Oriented Databases;Citation:173
+
+Title:Reloop, an Algebra Based Query Language for an Object-Oriented Database System;Citation:109
+
+Title:The Story of O2;Citation:480
+
+Title:Using a Database System to Implement a Debugger;Citation:1
+
+Title:Using Database Applications to Compare Programming Languages;Citation:2
+
+Title:Introduction to the Data Model;Citation:19
+
+Title:The O2 Database Programming Language;Citation:0
+
+Title:O2, an Object-Oriented Data Model;Citation:459
+
+Title:Building User Interfaces with Looks;Citation:10
+
+Title:A Framework for Schema Updates In An Object-Oriented Database System;Citation:221
+
+Title:All Your Data: The Oracle Extensibility Architecture;Citation:17
+
+Title:Enabling Component Databases with OLE DB;Citation:4
+
+Title:The Architecture of a Database System for Mobile and Embedded Devices;Citation:6
+
+Title:Distributed Component Database Management Systems;Citation:3
+
+Title:Extensible Indexing Support in DB2 Universal Database;Citation:5
+
+Title:Component Database Systems: Introduction, Foundations, and Overview;Citation:11
+
+Title:Building Component Database Systems Using CORBA;Citation:5
+
+Title:An Architecture for Transparent Access to Diverse Data Sources;Citation:6
+
+Title:Transaction Management in Database Systems;Citation:32
+
+Title:A Transaction Model for Active Distributed Object Systems;Citation:174
+
+Title:ACTA: The SAGA Continues;Citation:174
+
+Title:Introduction to Advanced Transaction Models;Citation:38
+
+Title:A Flexible Framework for Transaction Management in Engineering Environments;Citation:32
+
+Title:Dynamic Restructuring of Transactions;Citation:82
+
+Title:Multidatabase Transaction and Query Processing in Logic;Citation:21
+
+Title:A Transaction Model for an Open Publication Environment;Citation:38
+
+Title:A Cooperative Transaction Model for Design Databases;Citation:107
+
+Title:Using Polytransactions to Manage Interdependent Data;Citation:82
+
+Title:The S-transaction Model;Citation:47
+
+Title:The ConTract Model;Citation:462
+
+Title:Concepts and Applications of Multilevel Transactions and Open Nested Transactions;Citation:366
+
+Title:An Analysis of a Dynamic Query Optimization Scheme for Different Data Distributions;Citation:26
+
+Title:A Survey of Indexing Techniques for Object-Oriented Database Management Systems;Citation:45
+
+Title:Towards a Unification of Rewrite-Based Optimization Techniques for Object-Oriented Queries;Citation:21
+
+Title:Algebraic Query Optimization in the CoOMS Structurally Object-Oriented Database System;Citation:12
+
+Title:Extensible Query Optimization and Parallel Execution in Volcano;Citation:58
+
+Title:Tagging as an Alternative to Object Creation;Citation:19
+
+Title:Query Optimization in Deductive Object Bases;Citation:40
+
+Title:Query Optimization in Object Bases: Exploiting Relational Techniques;Citation:40
+
+Title:ADT-based Type System for SQL;Citation:4
+
+Title:Evaluation Aspects of an Object-oriented Deductive Database Language;Citation:2
+
+Title:Challenges for Query Processing in Object-Oriented Databases;Citation:17
+
+Title:Integration of Composite Objects into Relational Query Processing: The SQL/XNF Approach;Citation:3
+
+Title:Physical Database Design for an Object-Oriented Database System;Citation:19
+
+Title:Optimization of Complex-Object Queries in PRIMA - Statement of Problems;Citation:1
+
+Title:Implementation of the Object-Oriented Data Model TM;Citation:1
+
+Title:An Engineering Database benchmark;Citation:108
+
+Title:The Wisconsin Benchmark: Past, Present, and Future;Citation:192
+
+Title:The Neal Nelson Database Benchmark: A Benchmark Based on the Realities of Business;Citation:0
+
+Title:The Set Query Benchmark;Citation:53
+
+Title:Doing Your Own Benchmark;Citation:6
+
+Title:The History of DebitCredit and the TPC;Citation:26
+
+Title:ASAP: An ANSI SQL Standard Scaleable and Portable Benchmark for Relational Database Systems;Citation:53
+
+Title:Doing Your Own Benchmark;Citation:6
+
+Title:TPC-D: Benchmarking for Decision Support;Citation:9
+
+Title:Overview of the Full-Text Document Retrieval Benchmark;Citation:8
+
+Title:The Wisconsin Benchmark: Past, Present, and Future;Citation:192
+
+Title:Overview of the SPEC Benchmarks;Citation:16
+
+Title:Database and Transaction Processing Performance Handbook;Citation:33
+
+Title:The Set Query Benchmark;Citation:53
+
+Title:TPC-C - The Standard Benchmark for Online transaction Processing (OLTP);Citation:19
+
+Title:The History of DebitCredit and the TPC;Citation:26
+
+Title:ASAP - An ANSI SQL Standard Scaleable and Portable Benchmark for Relational Database Systems;Citation:53
+
+Title:Towards a Theory of Declarative Knowledge;Citation:1568
+
+Title:Performance Evaluation of Data Intensive Logic Programs;Citation:127
+
+Title:Foundations of Semantic Query Optimization for Deductive Databases;Citation:121
+
+Title:Negation as Failure Using Tight Derivations for General Logic Programs;Citation:362
+
+Title:Compiling the GCWA in Indefinite Deductive Databases;Citation:48
+
+Title:Intelligent Query Answering in Rule Based Systems;Citation:120
+
+Title:Logic Programming and Parallel Complexity;Citation:87
+
+Title:Unification Revisited;Citation:611
+
+Title:On the Declarative Semantics of Logic Programs with Negation;Citation:147
+
+Title:Equivalences of Logic Programs;Citation:207
+
+Title:A Logic-based Language for Database Updates;Citation:143
+
+Title:On the Declarative Semantics of Deductive Databases and Logic Programs;Citation:893
+
+Title:A Theorem-Proving Approach to Database Integrity;Citation:208
+
+Title:Optimizing Datalog Programs;Citation:247
+
+Title:Negation in Logic Programming;Citation:314
+
+Title:A Superjoin Algorithm for Deductive Databases;Citation:34
+
+Title:On Domain Independent Databases;Citation:48
+
+Title:Middleware for Location-Based Services;Citation:21
+
+Title:Database Aspects of Location-Based Services;Citation:35
+
+Title:Navigation Systems: A Spatial Database Perspective;Citation:23
+
+Title:Case Study: The Development of the Find Friends Application;Citation:15
+
+Title:Active Rule Management in Chimera;Citation:107
+
+Title:The HiPAC Project;Citation:72
+
+Title:The Ariel Project;Citation:18
+
+Title:The POSTGRES Rules System;Citation:24
+
+Title:The A-RDL System;Citation:32
+
+Title:Standards and Commercial Systems;Citation:4
+
+Title:Applications of Active Databases;Citation:9
+
+Title:Conclusions and Future Directions;Citation:1
+
+Title:Plattformen;Citation:9
+
+Title:CSCL im Fernstudium;Citation:1
+
+Title:Selbst organisierte Szenarien;Citation:4
+
+Title:CSCL in Hochschulseminaren: Zwei Beispielszenarien aus der Praxis;Citation:1
+
+Title:Virtuelle kooperative Lernräume;Citation:10
+
+Title:CSCL als Herausforderung an die Lehrerbildung;Citation:1
+
+Title:Kollaboratives Lernen Studierender mit Hilfe von Knowledge Forum;Citation:4
+
+Title:Pädagogische und didaktische Grundlagen;Citation:7
+
+Title:Software- und Systementwicklung;Citation:0
+
+Title:Informatikgrundlagen und Mensch-Computer-Kommunikation;Citation:6
+
+Title:Problemorientiertes Lernen;Citation:3
+
+Title:Kooperation in kleineren Lerngruppen;Citation:9
+
+Title:Einführung und Bereitstellung;Citation:3
+
+Title:Lern- und kommunikationspsychologische Grundlagen;Citation:8
+
+Title:Projektorientierung;Citation:5
+
+Title:Gruppen und Gruppenarbeit;Citation:13
+
+Title:Mediendidaktische Konzeption;Citation:6
+
+Title:Konzepte für die Lerngruppe;Citation:6
+
+Title:Qualitätssicherung;Citation:2
+
+Title:Spezifikationen, Normen und Standards für Lernmaterialien;Citation:1
+
+Title:Kooperatives Lernen in Organisationen;Citation:10
+
+Title:CSCL in der betrieblichen Weiterbildung;Citation:8
+
+Title:Neue Lernformen in der Berufsausbildung: Eine Fallstudie;Citation:0
+
+Title:CSCL in der Schule;Citation:0
+
+Title:Koordinationswerkzeuge zur Bildung von Lerngruppen;Citation:6
+
+Title:Moderation;Citation:21
+
+Title:Coaching;Citation:3
+
+Title:Konzepte zur Administration;Citation:0
+
+Title:Medienwahl;Citation:18
+
+Title:Werkzeuge für spezielle Lernmethoden;Citation:5
+
+Title:Kommunikationskonzepte;Citation:3
+
+Title:CSCL für Lernbehinderte und Hochbegabte;Citation:0
+
+Title:Lerngruppen;Citation:9
+
+Title:Perspektiven;Citation:2
+
+Title:Konzepte für den Lehrenden;Citation:2
+
+Title:Bedarfsanalysen;Citation:1
+
+Title:Sicherheit: Gewährleistung und Begrenzung des Informationsflusses;Citation:6
+
+Title:Logikorientierte Datenbanken - eine Einführung;Citation:1
+
+Title:Konzepte objektorientierter Datenmodelle;Citation:4
+
+Title:Eine Einführung in Frame-Logik;Citation:2
+
+Title:Natürlichsprachliche Interaktion mit Datenbanken;Citation:1
+
+Title:Konzepte des Datenbank-Entwurfs;Citation:6
+
+Title:Modellbildung für Datenbank-Transaktionen;Citation:1
+
+Title:Datenbankkonzepte für wissensbasierte Systeme;Citation:3
+
+Title:Datenstrukturen für Geodatenbanken;Citation:23
+
+Title:CSCL-Kompendium. Lehr- und Handbuch zum computerunterstützten kooperativen Lernen;Citation:83
+
+Title:Unification theory;Citation:707
+
+Title:Classical vs non-classical logics (the universality of classical logic);Citation:44
+
+Title:Higher order logic;Citation:90
+
+Title:Meta-languages, reflection principles, and self-reference;Citation:21
+
+Title:Mathematical induction;Citation:122
+
+Title:Logical basis for the automation of reasoning: Case studies;Citation:6
+
+Title:MEME, MAST, and Meta-MEME: New Tools for Motif Discovery in Protein Sequences;Citation:14
+
+Title:Discovering Concepts in Structural Data;Citation:0
+
+Title:Motif Discovery in Protein Structure Databases;Citation:5
+
+Title:A Framework for Biological Pattern Discovery on Networks of Workstations;Citation:0
+
+Title:Discovering Patterns in DNA Sequences by the Algorithmic Significance Method;Citation:2
+
+Title:RNA Structure Analysis: A Multifaceted Approach;Citation:2
+
+Title:Systematic Detection of Protein Structural Motifs;Citation:3
+
+Title:Pattern Discovery and Classification in Biosequences;Citation:0
+
+Title:Overview: A System for Tracking and Managing the Results from Sequence Comparison Programs;Citation:1
+
+Title:Representation and Matching of Small Flexible Molecules in Large Databases of 3D Molecular Information;Citation:3
+
+Title:Handbook of Logic in Artificial Intelligence and Logic Programming, Volume2, Deduction Methodologies;Citation:431
+
+Title:The Vbase Object Database Environment;Citation:11
+
+Title:CommonLoops: Merging Lisp and Object-Oriented Programming;Citation:381
+
+Title:Complex Entities for Engineering Applications;Citation:42
+
+Title:Overview of the Iris DBMS;Citation:206
+
+Title:Database Description with SDM: A Semantic Database Model;Citation:1009
+
+Title:A Tutorial on Semantic Database Modeling;Citation:13
+
+Title:SIM: A Database System Based on the Semantic Data Model;Citation:37
+
+Title:PICQUERY: A High Level Query Language for Pictorial Database Management;Citation:189
+
+Title:Managing Change in a Computer-Aided Design Database;Citation:132
+
+Title:Integrating an Object-Oriented Programming System with a Database System;Citation:167
+
+Title:Object Management in Distributed Information Systems;Citation:52
+
+Title:Development of an Object-Oriented DBMS;Citation:579
+
+Title:The POSTGRES Data Model;Citation:364
+
+Title:Type Evolution in an Object-Oriented Database;Citation:169
+
+Title:A Prological Definition of HASL: A Purely Functional Language with Unification-Based Conditional Binding Expressions;Citation:19
+
+Title:Constraining-Unification and the Programming Language UNICORN;Citation:10
+
+Title:LEAF: A Language which Integrates Logic, Equations and Functions;Citation:79
+
+Title:The APPLOG Language;Citation:13
+
+Title:The Unification of Functional and Logic Languages;Citation:102
+
+Title:EQLOG: Equality, Types, and Generic Modules For Logic Programming;Citation:343
+
+Title:Logic Programming Language Scheme;Citation:110
+
+Title:UNIFORM - A Language Based Upon Unification Which Unifies (much of) LISP, PROLOG, and ACT 1;Citation:28
+
+Title:Equality For Prolog;Citation:104
+
+Title:TABLOG: A New Approach To Logic Programming;Citation:12
+
+Title:On the Relationship Between Logic and Functional Languages;Citation:106
+
+Title:QUTE: A Functional Language Based on Unification;Citation:34
+
+Title:FRESH: A Higher-Order Language With Unification and Multiple Results;Citation:29
+
+Title:FUNLOG: A Computational Model Integrating Logic Programming and Functional Programming;Citation:59
+
+Title:Introduction to Data Structures and Algorithms Related to Information Retrieval;Citation:88
+
+Title:String Searching Algorithms;Citation:28
+
+Title:Signature Files;Citation:113
+
+Title:File Organizations for Optical Disks;Citation:3
+
+Title:Lexical Analysis and Stoplists;Citation:277
+
+Title:Extended Boolean Models;Citation:33
+
+Title:Introduction to Information Storage and Retrieval Systems;Citation:2568
+
+Title:Stemming Algorithms;Citation:476
+
+Title:New Indices for Text: Pat Trees and Pat Arrays;Citation:385
+
+Title:Relevance Feedback and Other Query Modification Techniques;Citation:237
+
+Title:Ranking Algorithms;Citation:326
+
+Title:Inverted Files;Citation:154
+
+Title:Special-Purpose Hardware for Information Retrieval;Citation:3
+
+Title:Clustering Algorithms;Citation:565
+
+Title:Parallel Information Retrieval Algorithms;Citation:7
+
+Title:Boolean Operations;Citation:46
+
+Title:Hashing Algorithms;Citation:8
+
+Title:Design of Large-Scale Multimedia-on-Demand Storage Servers and Storage Hierarchies;Citation:2
+
+Title:Third-Generation Distributed Hypermedia Systems;Citation:5
+
+Title:Visual Interfaces to Multimedia Databases;Citation:12
+
+Title:Video and Image Content Representation and Retrieval;Citation:14
+
+Title:Modeling Time-Based Media;Citation:8
+
+Title:Image Database Prototypes;Citation:7
+
+Title:Composite Models;Citation:0
+
+Title:Document Model Issues for Hypermedia;Citation:10
+
+Title:Content-Based Indexing and Retrieval;Citation:14
+
+Title:Video Database Systems - Recent Trends in Research and Development Activities;Citation:19
+
+Title:Video Segmentation for Video Data Management;Citation:19
+
+Title:Multimedia Interfaces - Multimedia Content Indication;Citation:1
+
+Title:Concurrency Control Performance Modeling: Alternatives and Implications;Citation:504
+
+Title:On Mixing Queries and Transactions via Multiversion Locking;Citation:104
+
+Title:Conflict Detection Tradeoffs for Replicated Data;Citation:196
+
+Title:Serializability-Based Correctness Criteria;Citation:3
+
+Title:Database Concurrency Control Using Data Flow Graphs;Citation:17
+
+Title:Reduction in Transaction Conflicts Using Semantics-Based Concurrency Control;Citation:4
+
+Title:Concurrency Control Mechanisms and Their Taxonomy;Citation:1
+
+Title:Transactions and Database Processing;Citation:2
+
+Title:Extensibility and Asynchrony in the Brown-Object Storage System;Citation:4
+
+Title:Performance of Concurrency Control Algorithms for Real-Time Database Systems;Citation:58
+
+Title:The Design and Performance Evaluation of a Lock Manager for a Memory-Resident Database System;Citation:6
+
+Title:Commit_LSN: A Novel and Simple Method for Reducing Locking and Latching in Transaction Processing Systems;Citation:113
+
+Title:A Two-Phase Approach to Predictably Scheduling Real-Time Transactions;Citation:25
+
+Title:An Analytic Model of Transaction Interference;Citation:0
+
+Title:Synchronizing Long-Lived Computations;Citation:5
+
+Title:Two-Phase Locking Performance and Its Thrashing Behavior;Citation:82
+
+Title:Implementation Considerations and Performance Evaluation of Object-Based Concurrency Control Protocols;Citation:4
+
+Title:Modeling and Analysis of Concurrency Control Schemes;Citation:2
+
+Title:Modeling Performance Impact of Hot Spots;Citation:8
+
+Title:Database Design Based on Entity and Realtionship;Citation:52
+
+Title:Data Models and the ANSI/SPARC Architecture;Citation:8
+
+Title:Network Database Design Methods;Citation:2
+
+Title:Compter-Assisted Hierarchical Database Design;Citation:3
+
+Title:Requirement Specification Techniques;Citation:5
+
+Title:Semantic Data Models;Citation:73
+
+Title:Relational Database Design;Citation:13
+
+Title:Schema Implemetation and Restructuring;Citation:4
+
+Title:Processing-Requirement Modeling and Its Applications in Logical Database Design;Citation:9
+
+Title:An Interactive System for Database Design and Integration;Citation:1
+
+Title:Topological Concepts for Hierarchies of variables, Types and Controls;Citation:7
+
+Title:Modifications of the Oettli-Prager Theorem with Application to the Eigenvalue Problem;Citation:0
+
+Title:Symbolic-Numeric Algorithms for Polynomials: Some recent Results;Citation:0
+
+Title:Matrix Methods for Solving Algebraic Systems;Citation:3
+
+Title:A Feasibility Result for Interval Gaussian Elimination Relying on Graph Structure;Citation:13
+
+Title:Solution of Systems of Polynomial Equation by Using Bernstein Expansion;Citation:32
+
+Title:Symbolic-Algebraic Computations in Modeling Language for Mathematical Programming;Citation:11
+
+Title:Translation of Taylor Series into LFT Expansions;Citation:7
+
+Title:Quasi Convex-Concave Extension;Citation:0
+
+Title:Rewriting, Induction and Decision Procedures: A Case Study of Presburger Arithmetic;Citation:4
+
+Title:Derivative-Based Subdivision in Multi-dimensional Verified Gaussian Quadrature;Citation:7
+
+Title:Exact Computation with leda_real - Theory and geometric Applications;Citation:21
+
+Title:Numerical Verification Method for Solutions of Nonlinear Hyperbolic Equations;Citation:1
+
+Title:Geometric Series Bounds for the Local errors of Taylor Methods for Linear n-th-Order ODEs;Citation:19
+
+Title:Safe Numerical Error Bounds for Solutions of Nonlinear Elliptic Boundary Value Problems;Citation:1
+
+Title:Fast Verification Algorithms in MATLAB;Citation:0
+
+Title:The Linear Complementarity Problem with Interval Data;Citation:0
+
+Title:Some Numerical Methods for Nonlinear Least Squares Problems;Citation:1
+
+Title:A New Insight of the Shortley-Weller Approximation for Dirichlet Problems;Citation:5
+
+Title:How Orthogonality is Lost in Krylov Methods;Citation:1
+
+Title:Symbolic-Numeric QD-Algorithms with Application in Function Theory and Linear Algebra;Citation:0
+
+Title:Content-Based Querying;Citation:0
+
+Title:Searching Distributed Hypermedia;Citation:0
+
+Title:User Interaction in a Virtual World Environment;Citation:0
+
+Title:Indexing of Multimedia Data;Citation:28
+
+Title:Multimedia and its Impact on Database System Architectures;Citation:18
+
+Title:Current and Emerging Applications [Requirements for a Multimedia Database];Citation:0
+
+Title:The SQL3 Server Interface;Citation:6
+
+Title:The SGML/HyTime Server Interface;Citation:1
+
+Title:An Expert Interface for Effective Man-Machine Interaction;Citation:16
+
+Title:An Interactive Customization Program for a Natural Language Database Query System;Citation:0
+
+Title:Talking it Over: The Natural Language Dialog System HAM-ANS;Citation:34
+
+Title:The Semantic-Based Natural Language Interface to Relational Databases;Citation:48
+
+Title:Studies in the Evaluation of a Domain-Independent Natural Language Query System;Citation:3
+
+Title:DIAGRAM: A Grammar for Dialogues;Citation:129
+
+Title:Considerations for the Development of Natural-Language Interfaces to Database Management Systems;Citation:20
+
+Title:An Engine for Intelligent Graphics;Citation:2
+
+Title:Algorithmic Number Theory and Its Relationship to Computational Complexity;Citation:0
+
+Title:Algorithmic Techniques for Geometric Optimization;Citation:13
+
+Title:Programming Satan's Computer;Citation:232
+
+Title:Differential BDDs;Citation:10
+
+Title:Templates for Linear Algebra Problems;Citation:10
+
+Title:The ART behind IDEAS;Citation:8
+
+Title:A Quantum Jump in Computer Science;Citation:37
+
+Title:Mathematical System Models as a Basis of Software Engineering;Citation:26
+
+Title:Abstracting Unification: A Key Step in the Design of Logic Program Analyses;Citation:4
+
+Title:Multimedia Authoring Tools: State of the Art and Research Challenges;Citation:27
+
+Title:Symmetry and Induction in Model Checking;Citation:22
+
+Title:Trends in Active Vision;Citation:7
+
+Title:Avoiding the Undefined by Underspecification;Citation:63
+
+Title:Towards a Computational Theory of Genome Rearrangements;Citation:30
+
+Title:Towards a theory of Recursive Structures;Citation:23
+
+Title:Algebraic Topology and Distributed Computing: A Primer;Citation:51
+
+Title:Computational Models for Distributed Multimedia Applications;Citation:2
+
+Title:Computational Machine Learning in Theory and Praxis;Citation:16
+
+Title:Hypermedia Systems as Internet Tools;Citation:8
+
+Title:Scalable Computing;Citation:177
+
+Title:Efficient Use of Parallel & Distributed Systems: From Theory to Practice;Citation:21
+
+Title:Edge-Coloring Algorithms;Citation:27
+
+Title:All the Needles in a Haystack: Can Exhaustive Search Overcome Combinatorial Chaos?;Citation:21
+
+Title:Chu Spaces and Their Interpretation as Concurrent Objects;Citation:79
+
+Title:Fundamental Limitations on Search Algorithms: Evolutionary Computing in Perspective;Citation:141
+
+Title:Petri Net Models of Distributed Algorithms;Citation:44
+
+Title:Information Retrieval and Information Reasoning;Citation:5
+
+Title:Reasoning about Actions and Change with Ramification;Citation:9
+
+Title:Formulations and Formalisms in Software Architecture;Citation:146
+
+Title:The Oz Programming Model;Citation:632
+
+Title:Experimental Validation of Models of Parallel Computation;Citation:15
+
+Title:Artificial Life and Real World Computing;Citation:6
+
+Title:Alternating Automata and Program Verification;Citation:119
+
+Title:Database Transaction Models;Citation:4
+
+Title:Quo Vadetis, Parallel Machine Models?;Citation:10
+
+Title:Standard Generalized Markup Language: Mathematical and Philosophical Issues;Citation:46
+
+Title:Fuzzy Sets as a Tool for Modeling;Citation:9
+
+Title:Data Mining for Selection of Manufacturing Processes;Citation:7
+
+Title:Fractal Mining - Self Similarity-based Clustering and its Applications;Citation:6
+
+Title:Text Mining and Information Extraction;Citation:18
+
+Title:Outlier Detection;Citation:18
+
+Title:Statistical Methods for Data Mining;Citation:8
+
+Title:Data Mining within a Regression Framework;Citation:10
+
+Title:Constraint-Based Data Mining;Citation:53
+
+Title:Data Mining Query Languages;Citation:24
+
+Title:Geometric Methods for Feature Extraction and Dimensional Reduction - A Guided Tour;Citation:9
+
+Title:Data Mining for Imbalanced Datasets: An Overview;Citation:132
+
+Title:Dimension Reduction and Feature Selection;Citation:10
+
+Title:Reinforcement-Learning: An Overview from a Data Mining Perspective;Citation:1
+
+Title:Parallel and Grid-Based Data Mining - Algorithms, Models and Systems for High-Performance KDD;Citation:0
+
+Title:Link Analysis;Citation:7
+
+Title:Relational Data Mining;Citation:157
+
+Title:WEKA - A Machine Learning Workbench for Data Mining;Citation:58
+
+Title:Evolutionary Algorithms for Data Mining;Citation:15
+
+Title:Bias vs. Variance Decomposition for Regression and Classification;Citation:10
+
+Title:Frequent Set Mining;Citation:123
+
+Title:Meta-Learning;Citation:22
+
+Title:Mining High-Dimensional Data;Citation:14
+
+Title:LERS - A Data Mining System;Citation:35
+
+Title:Mining Data Streams;Citation:4
+
+Title:Handling Missing Attribute Values;Citation:47
+
+Title:Logics for Data Mining;Citation:3
+
+Title:Quality Assessment Approaches in Data Mining;Citation:7
+
+Title:Visualization and Data Mining for High Dimensional Datasets;Citation:1
+
+Title:On the Use of Fuzzy Logic in Data Mining;Citation:4
+
+Title:Mining with Rare Cases;Citation:17
+
+Title:Data Mining for Financial Applications;Citation:25
+
+Title:Data Mining for Software Testing;Citation:5
+
+Title:Data Mining in Medicine;Citation:15
+
+Title:Data Mining for Target Marketing;Citation:7
+
+Title:GainSmarts Data Mining System for Marketing;Citation:0
+
+Title:Wavelet Methods in Data Mining;Citation:0
+
+Title:Granular Computing and Rough Sets;Citation:26
+
+Title:Introduction to Knowledge Discovery in Databases;Citation:30
+
+Title:Introduction to Supervised Methods;Citation:7
+
+Title:Decomposition Methodology for Knowledge Discovery and Data Mining;Citation:106
+
+Title:Data Cleansing - A Prelude to Knowledge Discovery;Citation:14
+
+Title:Wizsoft's WizWhy;Citation:2
+
+Title:Collaborative Data Mining;Citation:1
+
+Title:Organizational Data Mining;Citation:3
+
+Title:A Review of Web Document Clustering Approaches;Citation:23
+
+Title:Mining Time Series Data;Citation:48
+
+Title:Data Mining of Design Products and Processes;Citation:2
+
+Title:Ensemble Methods for Classifiers;Citation:26
+
+Title:Decision Trees;Citation:61
+
+Title:Clustering Methods;Citation:120
+
+Title:Interestingness Measures - On Determining What Is Interesting;Citation:9
+
+Title:Spatial Data Mining;Citation:26
+
+Title:Support Vector Machines;Citation:27
+
+Title:Learning Information Patterns in Biological Databases;Citation:0
+
+Title:Data Mining for Intrusion Detection;Citation:10
+
+Title:Building Data Mining Solutions with OLE DB for DM and XML for Analysis;Citation:31
+
+Title:Data Mining for CRM;Citation:8
+
+Title:Information Fusion - Methods and Aggregation Operators;Citation:1
+
+Title:Data Mining in Telecommunications;Citation:91
+
+Title:Discretization Methods;Citation:45
+
+Title:Causal Discovery;Citation:5
+
+Title:Object-Oriented Galileo;Citation:3
+
+Title:Proteus: The DBMS User Interface as an Object;Citation:4
+
+Title:Handling Constraints and their Exceptions: An Attached Constraint Handler for Object-Oriented CAD Databases;Citation:17
+
+Title:The Architecture of the EXODUS Extensible DBMS;Citation:331
+
+Title:Managing Complex Objects in the Darmstadt Database Kernel System;Citation:7
+
+Title:Object-Oriented Database Systems: The Notion and the Issues;Citation:22
+
+Title:The Efficient Support of Functionally-Defined Data in Cactis;Citation:2
+
+Title:Inheritance Issues in Computer-Aided Design Databases;Citation:8
+
+Title:Godal: An Object-Centered Database Language;Citation:0
+
+Title:An Object-Oriented Interface to a Relational Database;Citation:14
+
+Title:A Data Modeling Methodology for the Design and Implementation of Information Systems;Citation:71
+
+Title:An Overview of PDM: An Object-Oriented Data Model;Citation:1
+
+Title:Generating Object-Oriented Database Systems with the Data Model Compiler;Citation:2
+
+Title:An Object-Oriented Database for Trellis;Citation:0
+
+Title:Design Issues for Object-Oriented Database Systems;Citation:0
+
+Title:A Shared Object Hierarchy;Citation:44
+
+Title:ObServer: An Object Server for an Object-Oriented Database System;Citation:10
+
+Title:Towards on Object-Oriented Data Model for a Mechanical CAD Database System;Citation:5
+
+Title:Associate Access Support in GemStone;Citation:11
+
+Title:Object Management in Postgres using Procedures;Citation:73
+
+Title:Persistent Memory: A Storage System for Object-Oriented Databases;Citation:0
+
+Title:Views, Objects, and Databases;Citation:190
+
+Title:Using Adaptive Information Extraction for Effective Human-Centred Document Annotation;Citation:8
+
+Title:XML Information Retrieval and Information Extraction;Citation:13
+
+Title:On Knowledgeable Unsupervised Text Mining;Citation:11
+
+Title:Towards Collaborative Information Retrieval: Three Approaches;Citation:21
+
+Title:Evaluating Retrieval Performance Using Clickthrough Data;Citation:222
+
+Title:Concept Drift and the Importance of Example;Citation:51
+
+Title:Text Mining;Citation:20
+
+Title:The XDOC Document Suite - a Workbench for Document Mining;Citation:1
+
+Title:Feature-Rich Memory-Based Classification for Shallow NLP and Information Extraction;Citation:17
+
+Title:Visual Interfaces for Semantic Information Retrieval and Browsing;Citation:4
+
+Title:Information Visualization Versus the Semantic Web;Citation:17
+
+Title:Ontology-based Information Visualization;Citation:51
+
+Title:The XML Revolution and the Semantic Web;Citation:5
+
+Title:Concluding Remarks: Today's Vision of Envisioning the Semantic Future;Citation:1
+
+Title:SVG and X3D: New XML Technologies for 2D and 3D Visualization;Citation:1
+
+Title:Interactive Interfaces for Mapping E-commerce Ontologies;Citation:3
+
+Title:Using Scalable Vector Graphics and Georgraphical Information Systems in a Back Pain Study;Citation:2
+
+Title:Topic Maps Visualization;Citation:16
+
+Title:Web Rendering Systems: Techniques, Classification Criteria and Challenges;Citation:6
+
+Title:Recommender Systems for the Web;Citation:1
+
+Title:Web Services: Description, Interfaces and Ontology;Citation:4
+
+Title:Interactive Visualization of Paragraph-level Metadata to Support Corporate Document Use;Citation:0
+
+Title:Informatikbetrachtungen;Citation:5
+
+Title:Informatik und Wirtschaftsinformatik;Citation:5
+
+Title:Informatik - Allgemeinbildung für die Informationsgesellschaft;Citation:0
+
+Title:Computerunterstütztes problemorientiertes Lernen;Citation:1
+
+Title:Was lehren wir eigentlich, wenn wir Informatik lehren?;Citation:0
+
+Title:Software-Entwicklung im industriellen Maßstab;Citation:3
+
+Title:Wissen und Lernen;Citation:1
+
+Title:Sind Informatiker auch gute Software-Ingenieuere?;Citation:1
+
+Title:Softwaresystemtechnik - eine Informatik-Ingenieurdisziplin;Citation:2
+
+Title:Progress Toward Automating The Development of Database System Software;Citation:7
+
+Title:Query Processing in a Multidatabase System;Citation:91
+
+Title:Updating Relational Views;Citation:75
+
+Title:Common Subexpression Isolation in Multiple Query Optimization;Citation:113
+
+Title:Introduction to Query Processing;Citation:12
+
+Title:Processing Cyclic Queries;Citation:19
+
+Title:Query Processing Using the Concecutive Retrieval Property;Citation:2
+
+Title:Global Optimization of Relational Queries: A First Step;Citation:43
+
+Title:Query Processing in R*;Citation:152
+
+Title:Supporting Complex Objects in a Relational System for Engineering Databases;Citation:87
+
+Title:Physical Database Design: Techniques for Improved Database Performance;Citation:11
+
+Title:Querying Relational Views of Networks;Citation:26
+
+Title:Relational Query Processing on the Non-Von Supercomputer;Citation:4
+
+Title:The Intelligent Database Machine (IDM);Citation:18
+
+Title:Database Access Requirements of Knowledge-Based Systems;Citation:9
+
+Title:The Property of Separability And Its Application to Physical Database Design;Citation:4
+
+Title:Distributed Database Query Processing;Citation:11
+
+Title:Datenbanksprachen und Datenbankbenutzung;Citation:9
+
+Title:Realisierung von operationalen Schnittstellen;Citation:31
+
+Title:Architektur von Datenbanksystemen;Citation:31
+
+Title:Datenbankentwurf;Citation:29
+
+Title:Maßnahmen zur Wahrung von Sicherheits- und Integritäsbedingungen;Citation:29
+
+Title:Datenmodelle;Citation:0
+
+Title:JADE - A Java Agent Development Framework;Citation:174
+
+Title:Jason and the Golden Fleece of Agent-Oriented Programming;Citation:166
+
+Title:Programming Multi-Agent Systems in 3APL;Citation:110
+
+Title:IMPACT: A Multi-Agent Framework with Declarative Semantics;Citation:22
+
+Title:Jadex: A BDI Reasoning Engine;Citation:405
+
+Title:ARTIMIS Rational Dialogue Agent Technology: An Overview;Citation:6
+
+Title:The DEFACTO System: Coordinating Human-Agent Teams for the Future of Disaster Response;Citation:23
+
+Title:CLAIM and SyMPA: A Programming Environment for Intelligent and Mobile Agents;Citation:14
+
+Title:JACK Intelligent Agents: An Industrial Strength Platform;Citation:193
+
+Title:Implementation-Aware Embedded Control Systems;Citation:22
+
+Title:Network Fundamentals;Citation:3
+
+Title:Bluetooth in Control;Citation:7
+
+Title:Introduction to Hybrid Systems;Citation:80
+
+Title:Real-Time Scheduling for Embedded Systems;Citation:11
+
+Title:From Control Loops to Real-Time Programs;Citation:18
+
+Title:Basics of Data Acquisition and Control;Citation:1
+
+Title:Temporal Logic Model Checking;Citation:13
+
+Title:The Cornell RoboCup Robot Soccer Team: 1999-2003;Citation:16
+
+Title:Control of Autonomous Mobile Robots;Citation:4
+
+Title:SOPCs: Systems on Programmable Chips;Citation:0
+
+Title:Embedded Sensor Networks;Citation:41
+
+Title:Feedback Control with Communication Constraints;Citation:19
+
+Title:Control of Single-Input Single-Output Systems;Citation:1
+
+Title:Vehicle Applications of Controller Area Network;Citation:106
+
+Title:Finite Automata;Citation:115
+
+Title:Fundamentals of Dynamical Systems;Citation:0
+
+Title:Fundamentals of RTOS-Based Digital Controller Implementation;Citation:1
+
+Title:Network Protocols for Networked Control Systems;Citation:19
+
+Title:LabVIEW Real-Time for Networked/Embedded Control;Citation:1
+
+Title:An Overview of Hybrid Systems Control;Citation:10
+
+Title:Control Issues in Systems with Loop Delays;Citation:45
+
+Title:Networked Control Systems: A Model-Based Approach;Citation:34
+
+Title:Embedded Real-Time Control via MATLAB, Simulink, and xPC Target;Citation:17
+
+Title:Programmable Logic Controllers;Citation:0
+
+Title:An Introduction to Hybrid Automata;Citation:18
+
+Title:Basics of Sampling and Quantization;Citation:9
+
+Title:Basics of Computer Architecture;Citation:0
+
+Title:Control Using Feedback over Wireless Ethernet and Bluetooth;Citation:4
+
+Title:Wireless Control with Bluetooth;Citation:0
+
+Title:Control Loops in RTLinux;Citation:0
+
+Title:Abduction and Analogy in Chance Discovery;Citation:15
+
+Title:The PreparedMind: the Role of Representational Change in Chance Discovery;Citation:9
+
+Title:Application to Understanding Consumers Latent Desires;Citation:2
+
+Title:Discovering Deep Building Blocks for Competent Genetic Algorithms Using Chance Discovery via KeyGraphs;Citation:23
+
+Title:Anatomy of Rare Events in a Complex Adaptive System;Citation:0
+
+Title:Self-organizing Complex Systems;Citation:6
+
+Title:Topic Diffusion in a Community;Citation:25
+
+Title:Chance Discoveries from the WWW;Citation:0
+
+Title:Prediction, Forecasting, and Chance Discovery;Citation:5
+
+Title:Dimensional Representations of Knowledge in an Online Community;Citation:12
+
+Title:Agent Communications for Chance Discovery;Citation:3
+
+Title:Chance Discovery for Consumers;Citation:1
+
+Title:Application to Questionnaire Analysis;Citation:3
+
+Title:KeyGraph: Visualized Structure Among Event Clusters;Citation:72
+
+Title:Detection of Earthquake Risks with KeyGraph;Citation:3
+
+Title:Logics of Argumentation for Chance Discovery;Citation:1
+
+Title:The Storification of Chances;Citation:7
+
+Title:Human-to-Human Communication for Chance Discovery in Business;Citation:0
+
+Title:Enhancing Daily Conversations;Citation:1
+
+Title:Active Mining with Visual Human Interface;Citation:0
+
+Title:Awareness and Imagination of Hidden Factors and Rare Events;Citation:0
+
+Title:Effects of Scenic Information;Citation:7
+
+Title:Decisions by Chance and on Chance: Meanings of Chance in Recent News Stories;Citation:2
+
+Title:Agent Naming and Coordination: Actor Based Models and Infrastructures;Citation:20
+
+Title:Middleware Technologies: CORBA and Mobile Agents;Citation:6
+
+Title:A Market-Based Model for Resource Allocation in Agent Systems;Citation:13
+
+Title:Coordination and Security on the Internet;Citation:15
+
